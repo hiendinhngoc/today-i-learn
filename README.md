@@ -8,3 +8,4 @@ My daily note.
 - [ ] 2022-01-21 > [ 🧠 Time travelling in Rspec ](days/2022_01_21.md) _rspec_
 - [ ] 2023-01-08 > [ Attribute helper methods](days/2023_01_08.md) _rails_
 - [ ] 2023-01-09 > [ Attribute helper method(continue)](days/2023_01_09.md) _rails_
+- [ ] 2023-01-10 > [ Good architecture ](days/2023_01_10.md) _architecture_, _design_
