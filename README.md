@@ -10,3 +10,4 @@ My daily note.
 - [ ] 2023-01-09 > [ Attribute helper method(continue)](days/2023_01_09.md) _rails_
 - [ ] 2023-01-10 > [ Good architecture ](days/2023_01_10.md) _architecture_, _design_
 - [ ] 2024-01-16 > [ Todoist's recurring due date, Flutter's widget state](days/2024_01_16.md) _tool_, _flutter_
+- [ ] 2024-01-18 > [Flutter navigation](days/2024_01_18.md) _flutter_
