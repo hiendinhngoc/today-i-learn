@@ -14,3 +14,4 @@ My daily note.
 - [ ] 2024-01-29 > [Rails index customization](days/2024_01_29.md) _rails_
 - [ ] 2024-01-30 > [Git ignore, Flutter with Firebase](days/2024_01_30.md) _git_, _flutter_
 - [ ] 2024-01-31 > [Fix: build app to simulator error](days/2024_01_31.md) _flutter_
+- [ ] 2024-02-01 > [Scaffold in Flutter](days/2024_02_01.md) _flutter_
