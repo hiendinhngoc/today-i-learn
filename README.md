@@ -16,3 +16,4 @@ My daily note.
 - [ ] 2024-01-31 > [Fix: build app to simulator error](days/2024_01_31.md) _flutter_
 - [ ] 2024-02-01 > [Scaffold in Flutter](days/2024_02_01.md) _flutter_
 - [ ] 2024-02-02 > [dispose method in State class](days/2024_02_02.md) _flutter_
+- [ ] 2024-02-19 > [Future, Stream and async/await](days/2024_02_19.md) _flutter_
