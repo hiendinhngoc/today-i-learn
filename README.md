@@ -18,3 +18,4 @@ My daily note.
 - [ ] 2024-02-02 > [dispose method in State class](days/2024_02_02.md) _flutter_
 - [ ] 2024-02-19 > [Future, Stream and async/await](days/2024_02_19.md) _flutter_
 - [ ] 2024-02-21 > [Email enumeration attack](days/2024_02_21.md) _security_ _flutter_
+- [ ] 2024-02-22 > [AWS certification](days/2024_02_22.md) _aws_
