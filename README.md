@@ -20,3 +20,4 @@ My daily note.
 - [ ] 2024-02-21 > [Email enumeration attack](days/2024_02_21.md) _security_ _flutter_
 - [ ] 2024-02-22 > [AWS certification](days/2024_02_22.md) _aws_
 - [ ] 2024-02-23 > [Firebase authentication error codes](days/2024_02_23.md) _flutter_
+- [ ] 2024-02-27 > [Rails variable convention](days/2024_02_27.md)
