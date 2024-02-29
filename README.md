@@ -22,3 +22,4 @@ My daily note.
 - [ ] 2024-02-23 > [Firebase authentication error codes](days/2024_02_23.md) _flutter_
 - [ ] 2024-02-27 > [Rails variable convention](days/2024_02_27.md)
 - [ ] 2024-02-28 > [Flutter annimation](days/2024_02_28.md) _flutter_
+- [ ] 2024-02-29 > [Domain model in Rails, Monitor PostgreSQL on AWS RDS] _rails_ _aws_
