@@ -24,3 +24,4 @@ My daily note.
 - [ ] 2024-02-28 > [Flutter annimation](days/2024_02_28.md) _flutter_
 - [ ] 2024-02-29 > [Domain model in Rails, Monitor PostgreSQL on AWS RDS](days/2024_02_29.md) _rails_ _aws_
 - [ ] 2024-03-05 > [Flutter navigation](days/2024_03_05.md) _flutter_
+- [ ] 2024-03-06 > [Flutter imported package managing](days/2024_03_06.md) _flutter_
