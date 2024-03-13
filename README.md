@@ -26,3 +26,4 @@ My daily note.
 - [ ] 2024-03-05 > [Flutter navigation](days/2024_03_05.md) _flutter_
 - [ ] 2024-03-06 > [Flutter imported package managing](days/2024_03_06.md) _flutter_
 - [ ] 2024-03-07 > [Reload user info after verifying account](days/2024_03_07.md) _flutter_, _firebase_
+- [ ] 2024-03-13 > [Flutter flavor](days/2024_03_13.md) _flutter_
