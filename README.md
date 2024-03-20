@@ -30,3 +30,4 @@ My daily note.
 - [ ] 2024-03-16 > [Distributed tracing](days/2024_03_16.md) _observability_ _apm_ _devops_
 - [ ] 2024-03-18 > [GetPage class in Flutter](days/2024_03_18.md) _flutter_
 - [ ] 2024-03-19 > [GetX classes and methods](days/2024_03_19.md) _flutter_
+- [ ] 2024-03-20 > [pubspec.yml file](days/2024_03_20.md) _flutter_
