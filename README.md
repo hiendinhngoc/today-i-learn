@@ -32,3 +32,4 @@ My daily note.
 - [ ] 2024-03-19 > [GetX classes and methods](days/2024_03_19.md) _flutter_
 - [ ] 2024-03-20 > [pubspec.yml file](days/2024_03_20.md) _flutter_
 - [ ] 2024-03-24 > [Install bfg on Ubuntu](days/2024_03_24.md) _security_
+- [ ] 2024-03-29 > [Set up baseUrl local environment for flutter app](days/2024_03_29.md) _flutter_
