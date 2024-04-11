@@ -34,3 +34,4 @@ My daily note.
 - [ ] 2024-03-24 > [Install bfg on Ubuntu](days/2024_03_24.md) _security_
 - [ ] 2024-03-29 > [Set up baseUrl local environment for flutter app](days/2024_03_29.md) _flutter_
 - [ ] 2024-04-02 > [Install gem in Gemfile vs install directly on CLI](days/2024_04_02.md) _rails_
+- [ ] 2024-04-11 > [Hive in flutter](/days/2024_04_11.md) _flutter_
